@@ -1,3 +1,5 @@
+#This program is a simple two player tic-tac-toe game
+
 #print board
 def board(grid):
   print("012") 
